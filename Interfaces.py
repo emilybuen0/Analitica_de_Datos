@@ -9,7 +9,7 @@ def multi():
 
 multi()
 
-def imprime():
+def mostrar():
     print ("Estamos en la rama para desarrollar los cambios necesarios en el Frontend")
 
 mostrar()
